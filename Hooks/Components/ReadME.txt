@@ -10,3 +10,6 @@ Summary
 No need of <this>
 Allows reuse
 Organize the logic
+
+Rules
+Dont call Hooks inside loops, conditions, nested functions
