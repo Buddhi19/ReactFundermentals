@@ -13,3 +13,11 @@ Organize the logic
 
 Rules
 Dont call Hooks inside loops, conditions, nested functions
+
+UseState
+State can be anything
+
+UseEffect
+Timer
+Combine the side effects
+
